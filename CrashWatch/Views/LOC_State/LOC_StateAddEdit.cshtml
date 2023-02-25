@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "State_Add/Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model LOC_StateModel
+
+<div class="row">
+    <div class="col-md-12">
+        <form method="post" asp-controller="LOC_State" asp-action="Save">
+            @Html.HiddenFor(x=>x.StateID)
+            <div class="form-group">
+                <lable>Country Name</lable>
+                <select class="form-control" asp-for="CountryID" asp-items="@(new SelectList(ViewBag.CountryList,"CountryID","CountryName"))">
+                    <option value="">Select Country</option>
+                </select>
+                <span asp-validation-for="CountryID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label> State Name</label>
+                <input type="text" class="form-control" placeholder="Enter State Name" asp-for="StateName" />
+                <span asp-validation-for="StateName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label> State Code</label>
+                <input type="text" class="form-control" placeholder="Enter StateCode" asp-for="StateCode" />
+                <span asp-validation-for="StateCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label> CreationDate</label>
+                <input type="date" class="form-control" asp-for="CreationDate" />
+            </div>
+            <div class="form-group">
+                <label>ModificationDate</label>
+                <input type="date" class="form-control" asp-for="ModificationDate" />
+            </div>
+            <input type="submit" value="Save" class="btn btn-success" />
+        </form>
+    </div>
+</div>

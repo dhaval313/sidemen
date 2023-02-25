@@ -40,6 +40,62 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/.net project/Sidemen/WebApplication3/Views/About/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXEFib3V0XEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/Home/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXEhvbWVcSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/LOC_State/LOC_StateAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXExPQ19TdGF0ZVxMT0NfU3RhdGVBZGRFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/LOC_State/LOC_StateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXExPQ19TdGF0ZVxMT0NfU3RhdGVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/Map/Map.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXE1hcFxNYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/Report/Report.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXFJlcG9ydFxSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/Weather/Weather.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXFdlYXRoZXJcV2VhdGhlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/.net project/Sidemen/WebApplication3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/.net project/Sidemen/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ta790adw4n
+
+[F:/.net project/Sidemen/WebApplication3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24zXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-1ti15p7f1b
