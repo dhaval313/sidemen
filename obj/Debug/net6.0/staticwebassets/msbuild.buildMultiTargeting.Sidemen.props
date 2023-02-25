@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sidemen.props" />
+</Project>
